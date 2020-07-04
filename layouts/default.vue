@@ -41,7 +41,7 @@
 				</v-card-text>
 
 				<v-card-text class="white--text">
-					{{ new Date().getFullYear() }} — <strong>UIS Food Services</strong>
+					{{ new Date().getFullYear() }} — <strong>Food Services</strong>
 				</v-card-text>
 			</v-card>
 		</v-footer>
