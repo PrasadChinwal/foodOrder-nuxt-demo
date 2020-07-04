@@ -2,6 +2,8 @@
 
 > A SPA built using NuxtJS, Vuex, Vuetify and Tailwindcss which demonstrates use of Vuex for ordering food.
 
+[Live Demo](https://food-service-demo.netlify.app/)
+
 ## Screenshots
 
 ![Image of Home Page Light Theme](/static/main-light.png)
