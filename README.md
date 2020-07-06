@@ -16,6 +16,18 @@
 
 ## Build Setup
 
+1. With Docker
+    - Build docker container
+
+    ```bash docker build -t food-services .  ```
+
+    - Run container
+    ```bash docker run -it -p 5000:5000 food-services```
+
+    - visit ``` localhost:5000```
+
+2. Without Docker
+
 Clone this repository and run:
 
 ```bash
